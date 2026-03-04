@@ -1,0 +1,22 @@
+# Dados grandes
+data/
+
+# Arquivos de dados
+*.csv
+*.parquet
+*.xlsx
+*.zip
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
