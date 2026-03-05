@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/ds_core/__init__.py
+src/ds_core/data.py
+src/ds_core/features.py
+src/ds_core/paths.py
+src/ds_core.egg-info/PKG-INFO
+src/ds_core.egg-info/SOURCES.txt
+src/ds_core.egg-info/dependency_links.txt
+src/ds_core.egg-info/top_level.txt
